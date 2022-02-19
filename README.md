@@ -1,2 +1,4 @@
-# LogisticRegression
-Focus on Logistic Regression
+
+## References
+- https://careerfoundry.com/en/blog/data-analytics/what-is-logistic-regression/
+- 
