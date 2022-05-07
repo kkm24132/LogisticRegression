@@ -1,3 +1,17 @@
+## Topic
+
+- Linear models for picking a loss
+- Logistic Regression
+- Penalized Logistic Regression
+- Effect of regularization
+- Soft Margin - linear SVM
+- Log reg vs SVM
+- Multi Class Classification
+- Reduction to Binary Classification
+- One vs Rest Prediction
+- Multinomial Logistic Regression
+
+
 
 ## References
 - https://careerfoundry.com/en/blog/data-analytics/what-is-logistic-regression/
