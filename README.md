@@ -20,3 +20,5 @@
 - https://web.iitd.ac.in/~sumeet/linear_classif.pdf
 - https://cw.fel.cvut.cz/old/_media/courses/a3b33kui/knihy/pattern_recognition_and_machine_learning_chapter_04_part.pdf
 - https://amueller.github.io/aml/02-supervised-learning/06-linear-models-classification.html
+- https://medium.com/codex/classification-and-regularization-using-linear-models-in-machine-learning-1554282ffd84
+- https://www.kaggle.com/code/kashnitsky/topic-4-linear-models-part-2-classification/notebook
