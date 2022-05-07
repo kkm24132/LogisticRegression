@@ -22,3 +22,5 @@
 - https://amueller.github.io/aml/02-supervised-learning/06-linear-models-classification.html
 - https://medium.com/codex/classification-and-regularization-using-linear-models-in-machine-learning-1554282ffd84
 - https://www.kaggle.com/code/kashnitsky/topic-4-linear-models-part-2-classification/notebook
+- https://towardsai.net/p/l/linear-models-for-classification-logistic-regression-withwithout-sklearn-library
+- https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
