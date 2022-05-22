@@ -1,5 +1,24 @@
 ## Topic
 
+- **Linear Models for Classification**
+  - Linear Regression
+    - The Logit Function
+    - Maximum Likelihood Estimation
+    - Interpretation of Coefficient
+    - Model Diagnostics 
+      - Omnibus Test
+      - Wald's Test
+      - Hosmer-Lemeshow Test
+      - Psuedo-R squared: Cox and Snell R-square, Nagalkerke's R-square
+      - ROC Curve 
+    - Evaluation Metrics for Classification
+      - AUC-ROC Curve
+      - Gain & Lift Charts 
+    - Variable Selection
+  - Linear Discriminant Analysis
+    - When we can't use Logistic Reg 
+  - Quadratic Discriminant Analysis
+
 - Linear models for picking a loss
 - Logistic Regression
 - Penalized Logistic Regression
