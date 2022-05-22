@@ -1,7 +1,7 @@
 ## Topic
 
 - **Linear Models for Classification**
-  - Linear Regression
+  - Logistic Regression
     - The Logit Function
     - Maximum Likelihood Estimation
     - Interpretation of Coefficient
