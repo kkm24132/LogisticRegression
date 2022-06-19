@@ -46,5 +46,6 @@
 - Logistic Regression
   - https://online.stat.psu.edu/stat462/node/207/ 
   - [UCLA Model Diagnostics for Log Reg](https://stats.oarc.ucla.edu/other/mult-pkg/faq/general/faqhow-are-the-likelihood-ratio-wald-and-lagrange-multiplier-score-tests-different-andor-similar/) with Likelihood Ratio Test, Wald Test etc
+  - [Probabilistic interpretation of regularized Log Reg](https://github.com/rasbt/python-machine-learning-book/blob/master/faq/probablistic-logistic-regression.md)
 - LDA 
   - https://www.knowledgehut.com/blog/data-science/linear-discriminant-analysis-for-machine-learning
