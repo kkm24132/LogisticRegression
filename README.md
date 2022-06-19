@@ -43,4 +43,7 @@
 - https://www.kaggle.com/code/kashnitsky/topic-4-linear-models-part-2-classification/notebook
 - https://towardsai.net/p/l/linear-models-for-classification-logistic-regression-withwithout-sklearn-library
 - https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
-- LDA: https://www.knowledgehut.com/blog/data-science/linear-discriminant-analysis-for-machine-learning
+- Logistic Regression
+  - https://online.stat.psu.edu/stat462/node/207/ 
+- LDA 
+  - https://www.knowledgehut.com/blog/data-science/linear-discriminant-analysis-for-machine-learning
