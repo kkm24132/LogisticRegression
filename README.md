@@ -45,6 +45,6 @@
 - https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
 - Logistic Regression
   - https://online.stat.psu.edu/stat462/node/207/ 
-  - [Model Diagnostics for Log Reg](https://stats.oarc.ucla.edu/other/mult-pkg/faq/general/faqhow-are-the-likelihood-ratio-wald-and-lagrange-multiplier-score-tests-different-andor-similar/) with Likelihood Ratio Test, Wald Test etc
+  - [UCLA Model Diagnostics for Log Reg](https://stats.oarc.ucla.edu/other/mult-pkg/faq/general/faqhow-are-the-likelihood-ratio-wald-and-lagrange-multiplier-score-tests-different-andor-similar/) with Likelihood Ratio Test, Wald Test etc
 - LDA 
   - https://www.knowledgehut.com/blog/data-science/linear-discriminant-analysis-for-machine-learning
