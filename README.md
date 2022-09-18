@@ -14,7 +14,7 @@ The following is a quick snapshot of step wise learning path for fundamentals.
 
 
 ## Approach
-- Follow CRISP methodology
+- Follow CRISP-DM methodology diligently
 - Emphasis on EDA, Feature Engineering, Model Diagnostics and then go to Model Development, Model Evaluation
 - Leverage statsmodels for statistical analysis, inferences for interpretation of coefficients, feature selections, model diagnostics etc.
 - Leverage sklearn family for model solution, prediction, and further analysis of metrics for evaluation
