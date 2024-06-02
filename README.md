@@ -1,3 +1,5 @@
+## What is LogisticRegression
+This supervised learning algorithm predicts categorical response variables, such as “yes/no” answers to questions. It can be used for applications such as classifying spam and quality control on a production line.
 
 ## Linear Models for Classification / Logistic Regression
 
