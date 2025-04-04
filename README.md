@@ -20,13 +20,11 @@ The following is a quick snapshot of step-wise learning path for fundamentals.
 
 ![LR Learning Steps](https://github.com/kkm24132/LogisticRegression/blob/main/Image/LR_LearningSteps.jpg)
 
-
 ## Recommendation
 - Focus on Core Concepts
 - Learn Mathematics behind algorithm(s)
 - Apply using use cases and practice
 - Leverage Python or R programming, and then move to cloud platforms (AWS Sagemaker or Azure ML or GCP ML or Watson or KNIME etc.)
-
 
 ## Approach
 - Follow CRISP-DM methodology diligently
